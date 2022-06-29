@@ -15,3 +15,8 @@ Tomado desde el canal de [Fazt Code](https://www.youtube.com/channel/UCMn28O1sQG
 ## Instalaciones de Desarrollo
 
 > npm i nodemon -D
+
+## .env
+
+MONGODB_URI=mongodb://localhost/postsdb
+PORT=3000
